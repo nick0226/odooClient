@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/btnsndsupport"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.gallery.GalleryFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/view_note1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:text="Реквизиты стикера"
+                android:textAllCaps="false"
+                android:textSize="19sp"
+                android:textStyle="bold"
+                app:fontFamily="sans-serif" />
+
+            <EditText
+                android:id="@+id/edit_note"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:ems="10"
+                android:hint="Оставить примечание"
+                android:inputType="textMultiLine"
+                android:textSize="19sp"
+                app:fontFamily="sans-serif" />
+
+            <TextView
+                android:id="@+id/view_note2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:text="Примечание"
+                android:textAllCaps="false"
+                android:textSize="19sp"
+                android:textStyle="bold"
+                app:fontFamily="sans-serif" />
+
+            <EditText
+                android:id="@+id/edit_content"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="10dp"
+                android:ems="10"
+                android:hint="Оставить примечание"
+                android:inputType="textMultiLine"
+                android:textSize="19sp"
+                app:fontFamily="sans-serif" />
+
+            <Button
+                android:id="@+id/take_a_photo"
+                android:layout_width="229dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/btn_app"
+                android:drawableLeft="@drawable/camera1"
+                android:shadowColor="#A8A8A8"
+                android:shadowDx="3"
+                android:shadowDy="-5"
+                android:shadowRadius="5"
+                android:text="Сделать снимок"
+                android:textAppearance="@style/MyTextInputLayout"
+                android:textColor="#FFFFFF"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/openGallary"
+                android:layout_width="229dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/btn_app"
+                android:drawableLeft="@drawable/gallery"
+                android:onClick="onClick"
+                android:shadowColor="#A8A8A8"
+                android:shadowDx="3"
+                android:shadowDy="-5"
+                android:shadowRadius="5"
+                android:text="Загрузить фото"
+                android:textAppearance="@style/MyTextInputLayout"
+                android:textColor="#FFFFFF"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/send_mail"
+                android:layout_width="229dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/btn_app"
+                android:drawableLeft="@drawable/massange1"
+                android:shadowColor="#A8A8A8"
+                android:shadowDx="3"
+                android:shadowDy="-5"
+                android:shadowRadius="5"
+                android:text="Отправить"
+                android:textAppearance="@style/MyTextInputLayout"
+                android:textColor="#FFFFFF"
+                android:textSize="15sp" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:layout_height="265dp"
+                android:layout_marginTop="180dp"
+                android:src="@drawable/technical_support" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

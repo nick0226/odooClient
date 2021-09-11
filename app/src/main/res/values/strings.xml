@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Мобильный клиент ODOO</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Мобильный клиент ODOO</string>
+    <string name="nav_header_subtitle"></string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Обновить справочник</string>
+    <string name="info_panel">Информационная панель</string>
+    <string name="btn_snd_msg">Отправить сообщение в службу поддержки</string>
+    <string name="send_geopos">Геопозиция</string>
+    <string name="my_settings">Мои настройки</string>
+
+
+
+    <string name="menu_home">Расходы</string>
+    <string name="menu_gallery">Общение</string>
+    <string name="menu_slideshow">Служба поддержки</string>
+    <string name="menu_salles">Продажи</string>
+    <string name="hint_summary"><font size="15">(покупатель)</font></string>
+    <string name="hint_note"><font size="15">(наиминование, количество, особенности)</font></string>
+
+
+    <string name="home_second">Home Second</string>
+</resources>

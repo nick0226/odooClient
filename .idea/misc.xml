@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NavigationOdooClient (Geolocatoin 0.1.0006 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_gallery.xml" value="0.24121621621621622" />
+        <entry key="..\:/NavigationOdooClient (Geolocatoin 0.1.0006 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_salles.xml" value="0.24121621621621622" />
+        <entry key="..\:/NavigationOdooClient (Geolocatoin 0.1.0006 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_sendgeopos.xml" value="0.24121621621621622" />
+        <entry key="..\:/NavigationOdooClient (Geolocatoin 0.1.0006 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_settings.xml" value="0.24121621621621622" />
+        <entry key="..\:/NavigationOdooClient (Geolocatoin 0.2.0005 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.1.0006 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/activity_main.xml" value="0.1597972972972973" />
+        <entry key="..\:/NavigationOdooClient (Geolocatoin 0.2.0005 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.1.0006 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_btnsndsupport.xml" value="0.1597972972972973" />
+        <entry key="..\:/NavigationOdooClient (Geolocatoin 0.2.0005 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.1.0006 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_gallery.xml" value="0.1597972972972973" />
+        <entry key="..\:/NavigationOdooClient (Geolocatoin 0.2.0005 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.1.0006 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_home.xml" value="0.1597972972972973" />
+        <entry key="..\:/NavigationOdooClient (Geolocatoin 0.2.0005 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.1.0006 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_salles.xml" value="0.24121621621621622" />
+        <entry key="..\:/NavigationOdooClient (Geolocatoin 0.2.0005 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.1.0006 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_sendgeopos.xml" value="0.23209459459459458" />
+        <entry key="..\:/NavigationOdooClient (Geolocatoin 0.2.0005 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.1.0006 - java mailAPI)/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/menu/info_panel_menu.xml" value="0.1597972972972973" />
+        <entry key="..\:/NavigationOdooClient/app/src/main/res/layout/fragment_gallery.xml" value="0.15163934426229508" />
+        <entry key="..\:/NavigationOdooClient/app/src/main/res/layout/fragment_home.xml" value="0.16051912568306012" />
+        <entry key="..\:/NavigationOdooClient/app/src/main/res/layout/fragment_infopanel.xml" value="0.1804054054054054" />
+        <entry key="..\:/NavigationOdooClient/app/src/main/res/layout/fragment_salles.xml" value="0.22" />
+        <entry key="..\:/NavigationOdooClient/app/src/main/res/layout/fragment_sendgeopos.xml" value="0.25" />
+        <entry key="..\:/NavigationOdooClient/app/src/main/res/layout/fragment_slideshow.xml" value="0.15163934426229508" />
+        <entry key="..\:/NavigationOdooClient/app/src/main/res/menu/activity_main_drawer.xml" value="0.1804054054054054" />
+        <entry key="..\:/source/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_gallery.xml" value="0.15198087431693988" />
+        <entry key="..\:/source/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_home.xml" value="0.15198087431693988" />
+        <entry key="..\:/source/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_sendgeopos.xml" value="0.22" />
+        <entry key="..\:/source/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/fragment_settings.xml" value="0.24121621621621622" />
+        <entry key="..\:/source/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/layout/splash_screen.xml" value="0.16974043715846995" />
+        <entry key="..\:/source/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/menu/activity_main_drawer.xml" value="0.24121621621621622" />
+        <entry key="..\:/source/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/menu/info_panel_menu.xml" value="0.24121621621621622" />
+        <entry key="..\:/source/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/menu/main.xml" value="0.24121621621621622" />
+        <entry key="..\:/source/NavigationOdooClient (Geolocatoin 0.0.0001)/app/src/main/res/menu/wev_view_main.xml" value="0.24121621621621622" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

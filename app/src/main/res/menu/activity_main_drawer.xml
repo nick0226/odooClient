@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/expenses"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_salles"
+            android:icon="@drawable/salles_odoo"
+            android:title="@string/menu_salles" />
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/common"
+            android:title="@string/menu_gallery" />
+
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/tickets"
+            android:title="@string/menu_slideshow" />
+
+        <item
+            android:id="@+id/nav_infopanel"
+            android:icon="@drawable/info_panel"
+            android:title="@string/info_panel" />
+
+        <item
+            android:id="@+id/nav_geopositionsend"
+            android:icon="@drawable/geoposition_icon_80_80"
+            android:title="@string/send_geopos" />
+
+        <item
+            android:id="@+id/nav_mysettings"
+            android:icon="@drawable/my_settings"
+            android:title="@string/my_settings" />
+    </group>
+</menu>

@@ -1,0 +1,2 @@
+rootProject.name='odoocourier'
+include ':app'

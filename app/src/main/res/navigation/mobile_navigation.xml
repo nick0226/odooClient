@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="xyz.devdiscovery.odoocourier.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home"/>
+    <fragment
+        android:id="@+id/nav_home_second"
+        android:name="xyz.devdiscovery.odoocourier.ui.home.HomeSecondFragment"
+        android:label="@string/home_second"
+        tools:layout="@layout/fragment_home_second">
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="xyz.devdiscovery.odoocourier.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="xyz.devdiscovery.odoocourier.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_salles"
+        android:name="xyz.devdiscovery.odoocourier.ui.salles.SallesFragment"
+        android:label="@string/menu_salles"
+        tools:layout="@layout/fragment_salles" />
+
+    <fragment
+        android:id="@+id/nav_infopanel"
+        android:name="xyz.devdiscovery.odoocourier.ui.infopanel.InfoPanelFragment"
+        android:label="@string/info_panel"
+        tools:layout="@layout/fragment_infopanel" />
+
+    <fragment
+        android:id="@+id/btnsndsupport"
+        android:name="xyz.devdiscovery.odoocourier.ui.btnsndsupport.BtnSndSupportFragment"
+        android:label="@string/btn_snd_msg"
+        tools:layout="@layout/fragment_btnsndsupport" />
+
+    <fragment
+        android:id="@+id/nav_geopositionsend"
+        android:name="xyz.devdiscovery.odoocourier.ui.sendgeopos.SendGeoPosFragment"
+        android:label="@string/send_geopos"
+        tools:layout="@layout/fragment_sendgeopos" />
+
+    <fragment
+        android:id="@+id/nav_mysettings"
+        android:name="xyz.devdiscovery.odoocourier.ui.settings.MySettingsFragment"
+        android:label="@string/my_settings"
+        tools:layout="@layout/fragment_settings" />
+
+</navigation>

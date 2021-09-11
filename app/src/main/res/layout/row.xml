@@ -1,0 +1,16 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@android:id/text1"
+    style="@style/Widget.AppCompat.TextView"
+    android:layout_width="fill_parent"
+    android:layout_height="64dp"
+    android:gravity="center_vertical"
+    android:paddingLeft="10dip"
+    android:paddingTop="2dip"
+    android:paddingBottom="3dip"
+    android:textSize="19sp"
+    app:fontFamily="sans-serif" />
+
+
+
+

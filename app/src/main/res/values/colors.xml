@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#71caee</color>
+    <color name="colorPrimaryDark">#5b3250</color>
+    <color name="colorAccent">#875a7b</color>
+
+    <!-- Color ProgressBar RefreshSwipe -->
+    <color name="light">#875a7b</color>
+    <color name="middle">#5b3250</color>
+    <color name="deep">#875a7b</color>
+
+</resources>
